@@ -1,8 +1,7 @@
 # Operating Systems Concepts Explainer Pack
 
-**Academic Project Topic #13**  
+**Academic Project Topic :OS Explainer**  
 **Candidate:** Jeevika S  
-**Stack:** Python 3.12 (Flask), HTML5, CSS3, JavaScript (ES6+), Bootstrap 5.3, HTML5 Canvas 2D  
 
 ---
 
